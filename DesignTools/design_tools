@@ -1,0 +1,24 @@
+################################################################################
+# @file   diagram_tools
+# @brief  List commonly used tools in software development.
+# @date   May 3, 2017
+# @author anhthd
+# @email  anhthd2017@gmail.com
+################################################################################
+
+********************************************************************************
+1. Astah (Community version): 
+Usage: This tool is used for drawing SEQUENCE DIAGRAM.
+File extension: FileName.asta
+
+********************************************************************************
+2. StarUML:
+Usage: This tool is used for drawing CLASS DESIGN.
+File extension: FileName.mdj
+
+********************************************************************************
+3. Dia:
+Usage: This tool is used for drawing SYSTEM/MODULE DESIGN.
+File extension: FileName.dia
+
+********************************************************************************
